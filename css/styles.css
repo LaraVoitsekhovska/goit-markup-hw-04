@@ -469,12 +469,12 @@ margin-bottom:16px;
 
 .footer-soc-net-list {
 display: flex;
+gap: 16px;
 fill: #4d5ae5;
 }
 
 .footer-soc-net-link {
-display: flex;
-gap: 16px;
+display: flex;;
 width: 40px;
 height: 40px;
 border-radius: 50%;
